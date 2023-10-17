@@ -1,0 +1,66 @@
+.container {
+    display: flex;
+}
+
+.column1 {
+    flex: 3;
+    padding: 10px;
+    background-color: hsla(0, 33%, 98%, 0.826);
+    height:1000px;
+}
+.column2 {
+    flex: 7;
+    padding: 10px;
+    
+}
+.add{
+    background-color: red;
+    color:white;
+    font-size: 1.2rem;
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: none;
+    padding: 0.7rem;
+    font-weight: 600;
+    border-radius: 0.4rem;
+}
+.options{
+    margin-left: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    padding: 0.3rem;
+}
+.options:hover{
+    background-color: antiquewhite;
+}
+.filter{
+    margin-left: 2rem;
+}
+.addArea{
+    margin-left: 2rem;
+}
+.item{
+    background-color: antiquewhite;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.title{
+    font-size: 1.3rem;
+    color:red;
+    padding: 0.5rem;
+    font-style: italic;
+    font-weight: 600;
+}
+.dis{
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 400;
+    padding: 0.5rem;
+}
+.disTitle{
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 0.5rem;
+}

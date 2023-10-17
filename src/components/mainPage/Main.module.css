@@ -1,0 +1,28 @@
+.main{
+    background-image: url(../../../public/assets/mainPageBackground.jpg);
+    background-size: cover;
+    background-repeat: repeat; 
+    background-attachment: fixed;
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden; 
+    height: 1000px;
+}
+.heading{
+    font-size: 3rem;
+    text-align: center;
+}
+.btn{
+   font-size: 2rem;
+   background-color: black;
+   color: white;
+   border-radius: 0.3rem;
+   margin-left: 40%;
+   margin-right: 40%;
+   width:20%;
+}
+.text{
+    font-size: 2rem;
+    text-align: center;
+}
+
